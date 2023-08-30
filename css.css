@@ -1,0 +1,42 @@
+body, html{
+    margin: 0;
+    padding:  0;
+}
+
+
+.contenedor{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: orange;
+}
+
+.contenedor .header header{ 
+    background-color: aqua;
+    height: 60px;
+}
+
+section{
+    background-color: brown;
+    overflow: hidden;
+}
+
+nav{
+    width: 25%;
+    float: left;
+    background-color: coral;
+}
+
+footer{
+    height: 80px;
+    background-color: red;
+}
+
+
+
+article{
+    background-color: bisque;
+    width: 75%;
+    height: 240px;
+    float: left;
+}
+
